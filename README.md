@@ -75,8 +75,5 @@ To contribute, follow these steps:
    ```
 5. **Create a pull request.**
 
-### License
-This project is licensed under the @2023 Surya Vegesna.
-
 ### Contact
-If you have any questions or want to contribute, please email us at surya@example.com.
+If you have any questions or want to contribute, please email us at umatamalampudi26@gmail.com
